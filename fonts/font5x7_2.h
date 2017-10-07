@@ -1,6 +1,6 @@
 /** @file    font5x7_2.h
     @author  fontgen
-    @date    24 Sep 2011
+    @date    07 Oct 2017
 
     @defgroup font5x7_2  This is a 5x7 font with uppercase, digits, and some symbols.
  M.P. Hayes 2 Sep 2010
